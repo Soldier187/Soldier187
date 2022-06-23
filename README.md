@@ -2,7 +2,7 @@
 
  😎 Oi, eu sou __Deivid Michael__.🖐
  👀 Estou interessado em uma Vaga de desenvolverdor junior __Front-End__ para aperfeiçoamento dos meus conhecimentos e evolução em outras tecnologias.
- 🌱 Estou aprendendo, contudo já tenho alguns conheimentos e sempre busco mais para desenvolver um __codigo limpo__.
+ 🌱 Estou aprendendo, contudo já tenho alguns conheimentos e sempre busco mais para desenvolver.
  <br>
  <br>
 📫 __Como chegar até mim__ 👉 
